@@ -5,7 +5,7 @@ My name is Pablo, I'm a Software Engineer located in PA, US.
 - ⌨️ I'm currently working with JavaScript, TypeScript, Groovy and Java.
 - 📱 I'm interested in Mobile, DevOps, automation tools and API Development.
 - 🕸 My networks:
-  - [📝 Personal Blog](https://blog.pablo-guevara.com/)
+  - [📝 Personal Blog](https://pablog.dev/)
   - [📖 Pocket](https://getpocket.com/@pablog178)
   - [🐦 Twitter](https://twitter.com/pablog178)
   - [🧑‍💻 LinkedIn](https://www.linkedin.com/in/pablo-guevara/)
